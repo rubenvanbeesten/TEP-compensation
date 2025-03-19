@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: van Beesten
+    given-names: E. Ruben
+title: "TEP compensation"
+version: 1.0
+identifiers:
+date-released: 2025-03-19
