@@ -6,7 +6,6 @@ authors:
 title: "TEP compensation"
 version: 1.0
 identifiers:
-identifiers:
   - type: doi
     value: 10.5281/zenodo.15050522
 date-released: 2025-03-19
